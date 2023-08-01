@@ -8,9 +8,9 @@ For convenience, the project is hosted on [GitHub Pages](https://annasimaniuk.gi
 
 ## Technologies Used
 
-- HTML
-- CSS
-- JavaScript
+- ![HTML](https://img.shields.io/badge/-HTML-ff385c?logo=html5&logoColor=white&style=flat-square)
+- ![CSS](https://img.shields.io/badge/-CSS-254bdd?logo=css3&logoColor=white&style=flat-square)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-efd81d?logo=javascript&logoColor=black&style=flat-square)
 
 ## Usage
 
